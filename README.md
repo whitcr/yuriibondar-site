@@ -2,7 +2,7 @@ TECHNICAL REQUIREMENTS
 Site for Web developer
 Yurij Bondar
 
-1. Goal: site-business card of programmer Yuriy Bondar: to develop a one-page site of programmer Yuriy Bondar. This site should motivate visitors to choose Yuriy as a professional and use his skills and services.
+1.Goal: site-business card of programmer Yuriy Bondar: to develop a one-page site of programmer Yuriy Bondar. This site should motivate visitors to choose Yuriy as a professional and use his skills and services.
 
 2.Functional requirements:
 learn about the skills of a programmer
