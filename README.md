@@ -41,6 +41,6 @@ Mobile, laptop, desktop versions:
 - in the block with information, you can go to different social networks of the programmer
 
 Executors of the project are students of the Vinnytsia IT Academy:
-Denis Lenskiy
+Denis Lenskyi
 
 
