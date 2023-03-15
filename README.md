@@ -2,11 +2,14 @@ TECHNICAL REQUIREMENTS
 Site for Web developer
 Yurij Bondar
 
-Goal: site-card of programmer Yuriy Bondar, developing a one-page site for programmer Yuriy Bondar. This site should motivate visitors to choose Yuriy as a professional and use his skills and services.
+Goal: site-card about programmer Yuriy Bondar, developing a one-page site for programmer Yuriy Bondar. This site shows information about student of  INTITA Academy, also shows contacts, projects, social networks and other useful inf
 Functional requirements:
 learn about the skills of a programmer
-get experience information
-to be able to contact the programmer
+get information about experience of a student, about his projects
+to be able to contact the student
+see what courses and modules student has graduated
+go to the Academy social networks
+
 
 Technologies: HTML5, CSS, Figm
 Downloading the site on Desktop, Laptop, Mobile
@@ -22,10 +25,9 @@ The colour scheme in the design is used taking into account the wishes of the cu
 Site structure, prototype: https://www.figma.com/file/06Zx8BTlDptEiPVScVNHEt/INTITAmain?node-id=0%3A1&t=Pa90W8xIvzOkEwE9-0
 
 
-The first block (for all versions): photo, general information about the programmer, links to social media and email
+The first block (for all versions): photo, general information about the student, links to social media and email
 The second block (for all versions): a menu with a selection of sections like “courses” “projects” “feedback” “certificates”
 The third block (for all versions): different sections that are selected in the second block
- 
  
 
 Social networks:
@@ -40,8 +42,8 @@ Functionality:
 Mobile, laptop, desktop versions:
 - when clicking on the sections, various blocks with information are opened
 - links to social networks (Instagram, Facebook, Telegram, YouTube);
-- in the block with information, you can go to different social networks of the programmer
-- by clicking “courses” block you can see all courses that programmer has studied
+- in the block with information, you can go to different social networks of the student
+- by clicking “courses” block you can see all courses that student has studied
 - by clicking “certificates” you can see proves of graduating
 - by clicking “feedback” you can see the feedback about studying
 
